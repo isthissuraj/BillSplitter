@@ -248,22 +248,7 @@ class _BillSplitterState extends State<BillSplitter> {
 
 
 
-//       body: Expanded(
-//         child: Container(
-//           margin: EdgeInsets.only( top: MediaQuery.of(context).size.height*0.1),
-//           alignment: Alignment.center,
-//           color: Colors.white,
-//           child: ListView(
-//             scrollDirection: Axis.vertical,
-//             padding: EdgeInsets.all(20.0),
-//             children: [
-//               Container(
-//                 width: 150,
-//                 height: 150,
-//                 decoration:  BoxDecoration(
-//                   color: Color(0xFF0DCC6C).withOpacity(0.4),
-//                   borderRadius: BorderRadius.circular(12.0),
-//                 ),
+
 //                 child: Center(
 //                   child: Column(
 //                     mainAxisAlignment: MainAxisAlignment.center,
