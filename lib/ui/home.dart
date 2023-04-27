@@ -244,17 +244,7 @@ class _BillSplitterState extends State<BillSplitter> {
     return totalTip;
   }
 }
-// class BillSplitter extends StatefulWidget {
-//   const BillSplitter({Key? key}) : super(key: key);
 
-//   @override
-//   State<BillSplitter> createState() => _BillSplitterState();
-// }
-
-// class _BillSplitterState extends State<BillSplitter> {
-//  int _tipPercentage = 1;
-//  int _personCounter = 1;
-//  double _billAmount = 0.0;
 
 //   @override
 //   Widget build(BuildContext context) {
