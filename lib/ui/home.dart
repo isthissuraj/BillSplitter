@@ -282,14 +282,7 @@ class _BillSplitterState extends State<BillSplitter> {
 //                   borderRadius: BorderRadius.circular(12.0)
 //                 ),
 
-//                 child: Column(
-//                   children: [
-//                     TextField(
-//                       keyboardType: TextInputType.numberWithOptions(decimal: true),
-//                       style: TextStyle(color: Color(0xFF0DCC6C)),
-//                       decoration: InputDecoration(
-//                         prefixText: "Bill Ammount : ",
-//                         prefixIcon: Icon(Icons.attach_money)
+//                
 //                       ),
 //                       onChanged: (String value){
 //                         try{
