@@ -246,13 +246,6 @@ class _BillSplitterState extends State<BillSplitter> {
 }
 
 
-//   @override
-//   Widget build(BuildContext context) {
-//     return Scaffold(
-//       appBar: AppBar(
-//         title: Text("Bill splitter"),
-//         backgroundColor: Color(0xFF0DCC6C),
-//       ),
 
 
 //       body: Expanded(
