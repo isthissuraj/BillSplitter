@@ -28,18 +28,7 @@ class _BillSplitterState extends State<BillSplitter> {
         centerTitle: true,
         backgroundColor: Color(0xff6200EE),
       ),
-    // bottomNavigationBar: BottomAppBar(
-    //     child: Container(
-    //   padding: EdgeInsets.fromLTRB(114, 4, 0, 4),
-    //   decoration: BoxDecoration(color: Colors.transparent),
-    //   child: Text(
-    //     "Mil bant ke khao",
-    //     style: TextStyle(
-    //         fontWeight: FontWeight.w500,
-    //         fontSize: 10,
-    //         fontStyle: FontStyle.normal),
-    //   ),
-    // )),
+    
       body: Container(
         margin: EdgeInsets.only(top: MediaQuery.of(context).size.height * 0.01),
         alignment: Alignment.center,
