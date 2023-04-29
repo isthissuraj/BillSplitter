@@ -250,18 +250,6 @@ class _BillSplitterState extends State<BillSplitter> {
 
 
 
-//               Container(
-//                 margin: EdgeInsets.only(top : 20.0),
-//                 padding: EdgeInsets.all(12.0),
-//                 decoration: BoxDecoration(
-//                   color: Colors.transparent,
-//                   border: Border.all(
-//                     color: Colors.blueGrey.shade100,
-//                     style: BorderStyle.solid
-//                   ),
-//                   borderRadius: BorderRadius.circular(12.0)
-//                 ),
-
 //                
 //                       ),
 //                       onChanged: (String value){
