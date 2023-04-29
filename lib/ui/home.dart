@@ -249,27 +249,7 @@ class _BillSplitterState extends State<BillSplitter> {
 
 
 
-//                 child: Center(
-//                   child: Column(
-//                     mainAxisAlignment: MainAxisAlignment.center,
-//                     children: [
-//                       Text("Total Per Person", style: TextStyle(
-//                         fontWeight: FontWeight.normal,
-//                         fontSize: 15.0,
-//                         color: Color(0xFF0DCC6C)
-//                       ),),
-//                       Padding(
-//                         padding: const EdgeInsets.all(12.0),
-//                         child: Text(" \$ ${calculateTotalPerPerson( _billAmount, _personCounter, _tipPercentage )}", style: TextStyle(
-//                           color: Color(0xFF0DCC6C),
-//                           fontSize: 35,
-//                           fontWeight: FontWeight.bold
-//                         ),),
-//                       )
-//                     ],
-//                   ),
-//                 ),
-//               ),
+
 //               Container(
 //                 margin: EdgeInsets.only(top : 20.0),
 //                 padding: EdgeInsets.all(12.0),
