@@ -250,38 +250,6 @@ class _BillSplitterState extends State<BillSplitter> {
 
 
 
-//                
-//    
-
-//                                     ),
-//                                   ),
-//                                 ),
-//                           ),
-//                             ),
-//                             Text("$_personCounter", style: TextStyle(
-//                               color: Color(0xFF0DCC6C),
-//                               fontWeight: FontWeight.bold,
-//                               fontSize: 17.0
-//                             ),),
-//                             InkWell(
-//                               onTap: (){
-//                                 setState(() {
-//                                   _personCounter++;
-//                                 });
-//                               },
-//                               child: Container(
-//                                 width: 40.0,
-//                                 height: 40.0,
-//                                   margin: EdgeInsets.all(10.0),
-//                                 decoration: BoxDecoration(
-//                                   color: Color(0xFF0DCC6C).withOpacity(0.4),
-//                                   borderRadius:BorderRadius.circular(7.0)
-//                                 ),
-//                                 child: Center(
-//                                   child: Text("+", style: TextStyle(
-//                                     color: Color(0xFF0DCC6C),
-//                                     fontSize: 17.0,
-//                                     fontWeight: FontWeight.bold
 //                                   ),),
 //                                 ),
 //                               ),
