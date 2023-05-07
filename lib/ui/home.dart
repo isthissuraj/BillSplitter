@@ -248,27 +248,3 @@ class _BillSplitterState extends State<BillSplitter> {
 
 
 
-
-
-//                         // )
-//                       ],
-//                     ),
-//                     // making a slider
-//                     Column(
-//                       children: [
-//                         Text("$_tipPercentage%", style: TextStyle(
-//                           color: Color(0xFF0DCC6C),
-//                           fontSize: 17.0,
-//                           fontWeight: FontWeight.bold
-//                         ),),
-
-//                         Slider(
-//                           min: 0,
-//                           max: 100,
-//                           activeColor: Color(0xFF0DCC6C),
-//                           inactiveColor: Color(0xFF0DCC6C).withOpacity(0.3),
-//                           divisions: 20,
-//                           value: _tipPercentage.toDouble(),
-//                           onChanged: (double newValue){
-//                           setState(() {
-//                             _tipPercentage = newValue.round();
