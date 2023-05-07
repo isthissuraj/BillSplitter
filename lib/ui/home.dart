@@ -250,32 +250,6 @@ class _BillSplitterState extends State<BillSplitter> {
 
 
 
-//                                   ),),
-//                                 ),
-//                               ),
-//                             )
-//                       ],
-//                     )
-//                   ],
-//                 ),
-//                    // row fro the tip calculated
-//                     Row(
-//                       mainAxisAlignment: MainAxisAlignment.spaceBetween,
-//                       children: [
-//                         Text("Tip", style: TextStyle(
-//                             color:Colors.grey.shade700
-//                         ),),
-//                        // Padding(
-//                         //   padding: const EdgeInsets.all(18.0),
-//                         //   child: Text(
-//                         //   // " ${calculateTotalTip(_billAmount,
-//                         //   //     _personCounter,
-//                         //   //     _tipPercentage)}"
-//                         //       "",style: TextStyle(
-//                         //     color: Color(0xFF0DCC6C),
-//                         //     fontWeight: FontWeight.bold,
-//                         //     fontSize: 17.0
-//                         //   ),),
 //                         // )
 //                       ],
 //                     ),
