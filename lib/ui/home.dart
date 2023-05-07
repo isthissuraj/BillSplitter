@@ -272,37 +272,3 @@ class _BillSplitterState extends State<BillSplitter> {
 //                           onChanged: (double newValue){
 //                           setState(() {
 //                             _tipPercentage = newValue.round();
-//                           });
-//                         },)
-
-//                       ],
-//                     )
-
-//                   ])
-//               )],
-
-//           ),
-//         ),
-//       ),
-//     );
-//   }
-//   //first function
-// calculateTotalPerPerson(double billAmount, int splitBy, int tipPercentage){
-
-//  var totalPerPerson = (calculateTotalPerPerson( billAmount, splitBy, tipPercentage) + billAmount)/ splitBy;
-//  return totalPerPerson.toStringAsFixed(2);
-// }
-
-// calculateTotalTip(double billAmount , int splitBill , int tipPercentage){
-// double totalTip = 0.0;
-
-// if (billAmount < 0 || billAmount.toString().isEmpty || billAmount == null){
-//   // don't do any thing
-// }else{
-//   totalTip = (billAmount * tipPercentage)/100;
-// return totalTip;
-// }
-
-// }
-
-// }
