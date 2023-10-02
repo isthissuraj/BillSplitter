@@ -188,7 +188,7 @@ class _BillSplitterState extends State<BillSplitter> {
                       )
                     ],
                   ),
-                  //Slider
+                  //SLIDER
                   Column(
                     children: <Widget>[
                       Text(
